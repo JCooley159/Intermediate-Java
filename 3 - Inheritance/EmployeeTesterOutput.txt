@@ -1,0 +1,7 @@
+HourlyEmployee: Jeremy Cooley, paycheck: 250.00, 25.0 hours/week, $10.0/hour
+HourlyEmployee: Alex Gasta, paycheck: 525.00, 35.0 hours/week, $15.0/hour
+
+ Sorted List: 
+
+HourlyEmployee: Alex Gasta, paycheck: 525.00, 35.0 hours/week, $15.0/hour
+HourlyEmployee: Jeremy Cooley, paycheck: 250.00, 25.0 hours/week, $10.0/hour

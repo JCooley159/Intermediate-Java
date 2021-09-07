@@ -1,0 +1,1 @@
+Sets - store a group of nonduplicate elementsLists - store an ordered collection of elementsStacks - store objects that are processed in a last-in, first-out fashionQueues - store objects that are processed in a first-in first-out fashionPriority Queues - store objects that are processed in the order of their priorities

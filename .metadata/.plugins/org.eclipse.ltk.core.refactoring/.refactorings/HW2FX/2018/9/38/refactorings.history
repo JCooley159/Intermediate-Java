@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 6 elements to &apos;HW2FX/src&apos;&#x0D;&#x0A;- Original project: &apos;HW2FX&apos;&#x0D;&#x0A;- Destination element: &apos;HW2FX/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Course.java&#x0D;&#x0A;     History.java&#x0D;&#x0A;     courses.txt&#x0D;&#x0A;     English.java&#x0D;&#x0A;     Math.java&#x0D;&#x0A;     CourseList.java&#x0D;&#x0A;- Update references to refactored element" description="Move files" destination="/src" element1="Course.java" element2="History.java" element3="courses.txt" element4="English.java" element5="Math.java" element6="CourseList.java" files="6" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1537592099397" units="0" version="1.0"/>
+</session>

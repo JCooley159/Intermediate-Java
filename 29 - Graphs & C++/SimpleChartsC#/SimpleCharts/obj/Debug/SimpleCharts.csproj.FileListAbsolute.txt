@@ -1,0 +1,12 @@
+I:\Courses\ITEC3860\Sample simple programs\SimpleCharts\SimpleCharts\bin\Debug\SimpleCharts.exe.config
+I:\Courses\ITEC3860\Sample simple programs\SimpleCharts\SimpleCharts\bin\Debug\SimpleCharts.exe
+I:\Courses\ITEC3860\Sample simple programs\SimpleCharts\SimpleCharts\bin\Debug\SimpleCharts.pdb
+I:\Courses\ITEC3860\Sample simple programs\SimpleCharts\SimpleCharts\obj\Debug\SimpleCharts.Form1.resources
+I:\Courses\ITEC3860\Sample simple programs\SimpleCharts\SimpleCharts\obj\Debug\SimpleCharts.Properties.Resources.resources
+I:\Courses\ITEC3860\Sample simple programs\SimpleCharts\SimpleCharts\obj\Debug\SimpleCharts.csproj.GenerateResource.Cache
+I:\Courses\ITEC3860\Sample simple programs\SimpleCharts\SimpleCharts\obj\Debug\SimpleCharts.exe
+I:\Courses\ITEC3860\Sample simple programs\SimpleCharts\SimpleCharts\obj\Debug\SimpleCharts.pdb
+I:\Courses\ITEC3860\Sample simple programs\SimpleCharts\SimpleCharts\obj\Debug\SimpleCharts.csprojResolveAssemblyReference.cache
+E:\Courses\ITEC3860\Sample simple programs\SimpleCharts\SimpleCharts\bin\Debug\SimpleCharts.exe.config
+E:\Courses\ITEC3860\Sample simple programs\SimpleCharts\SimpleCharts\obj\Debug\SimpleCharts.exe
+E:\Courses\ITEC3860\Sample simple programs\SimpleCharts\SimpleCharts\obj\Debug\SimpleCharts.pdb
